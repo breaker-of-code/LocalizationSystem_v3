@@ -1,0 +1,69 @@
+{
+    "languages": [
+        {
+            "languageName": "English",
+            "entries": [
+                {
+                    "key": "greeting",
+                    "translation": "Hello"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Goodbye"
+                }
+            ]
+        },
+        {
+            "languageName": "Spanish",
+            "entries": [
+                {
+                    "key": "greeting",
+                    "translation": "Hola"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Adiós"
+                }
+            ]
+        },
+        {
+            "languageName": "French",
+            "entries": [
+                {
+                    "key": "greeting",
+                    "translation": "Bonjour"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Au revoir"
+                }
+            ]
+        },
+        {
+            "languageName": "German",
+            "entries": [
+                {
+                    "key": "greeting",
+                    "translation": "Hallo"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Auf Wiedersehen"
+                }
+            ]
+        },
+        {
+            "languageName": "Portuguese",
+            "entries": [
+                {
+                    "key": "greeting",
+                    "translation": "Olá"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Adeus"
+                }
+            ]
+        }
+    ]
+}

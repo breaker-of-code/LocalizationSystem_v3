@@ -1,0 +1,106 @@
+{
+    "languages": [
+        {
+            "languageName": "Chinese",
+            "entries": [
+                {
+                    "key": "How are you?",
+                    "translation": "你好吗"
+                },
+                {
+                    "key": "Who are you?",
+                    "translation": "你是谁？"
+                }
+            ]
+        },
+        {
+            "languageName": "English",
+            "entries": [
+                {
+                    "key": "How are you?",
+                    "translation": "How are you?"
+                },
+                {
+                    "key": "Who are you?",
+                    "translation": "Who are you?"
+                },
+                {
+                    "key": "greeting",
+                    "translation": "Hello"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Goodbye"
+                }
+            ]
+        },
+        {
+            "languageName": "French",
+            "entries": [
+                {
+                    "key": "How are you?",
+                    "translation": "comment vas-tu ?"
+                },
+                {
+                    "key": "Who are you?",
+                    "translation": "qui es-tu ?"
+                },
+                {
+                    "key": "greeting",
+                    "translation": "Bonjour"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Au revoir"
+                }
+            ]
+        },
+        {
+            "languageName": "German",
+            "entries": [
+                {
+                    "key": "greeting",
+                    "translation": "Hallo"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Auf Wiedersehen"
+                }
+            ]
+        },
+        {
+            "languageName": "Portuguese",
+            "entries": [
+                {
+                    "key": "greeting",
+                    "translation": "Olá"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Adeus"
+                }
+            ]
+        },
+        {
+            "languageName": "Spanish",
+            "entries": [
+                {
+                    "key": "How are you?",
+                    "translation": "Cómo estás"
+                },
+                {
+                    "key": "Who are you?",
+                    "translation": "¿quién eres?"
+                },
+                {
+                    "key": "greeting",
+                    "translation": "Hola"
+                },
+                {
+                    "key": "farewell",
+                    "translation": "Adiós"
+                }
+            ]
+        }
+    ]
+}
